@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Node.js backend api for multiple projects",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stamovm/backend.git"
+  },
+  "keywords": [],
+  "author": "Marin Stamov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stamovm/backend/issues"
+  },
+  "homepage": "https://github.com/stamovm/backend#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
